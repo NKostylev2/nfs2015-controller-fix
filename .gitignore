@@ -1,0 +1,14 @@
+# Build artifacts and binaries
+cli/bin/
+cli/obj/
+bin/
+bin_standalone/
+*.pdb
+
+# Python
+__pycache__/
+*.pyc
+
+# Backups
+*.backup_*
+*.backup_original
